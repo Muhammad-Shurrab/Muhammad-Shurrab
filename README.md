@@ -20,7 +20,7 @@
 ### Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** [List any frameworks or libraries you've worked with]
+- **Frameworks/Libraries:** React.js, Sass
 - **Tools:** Git, VS Code
 - **Design:** Figma, Adobe XD
 
@@ -34,6 +34,6 @@
 
 ### Fun Fact
 
-🎵 When not coding, you can find me [insert a hobby or interest].
+💪💪 When not coding, you can find me at the gym.
 
 Feel free to explore my repositories and reach out! 🚀
