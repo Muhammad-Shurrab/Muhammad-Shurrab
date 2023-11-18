@@ -32,7 +32,7 @@
 
 ### Let's Connect!
 
-[![LinkedIn](link to your LinkedIn profile)]([your LinkedIn profile link](https://www.linkedin.com/in/muhammad-shurrab-a63b3b234/))
+([My LinkedIn profile link](https://www.linkedin.com/in/muhammad-shurrab-a63b3b234/))
 
 ### 📈 GitHub Stats
 
