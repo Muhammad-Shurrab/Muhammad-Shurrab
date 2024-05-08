@@ -13,7 +13,7 @@
 
 ### Experience
 
-- 💼 **Almdrasa Front-End Diploma** (6 months Intern)
+- 💼 **Orange Coding Academy** (6 months Training)
   - Worked on [specific projects or technologies]
   - Collaborated with a team of developers to [describe your contributions]
 
