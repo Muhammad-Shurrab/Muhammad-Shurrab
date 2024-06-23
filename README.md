@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Muhammad Shurrab!
 
-🚀 Junior Front-End Developer | 💻 6 months Training at Orange Coding Academy 
+🚀 Junior Full-Stack Developer | 💻 6 months Training at Orange Coding Academy 
 🎓 Graduated from Al-Albayt University in Accounting Information System
 
 ### About Me
