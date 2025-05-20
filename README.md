@@ -1,44 +1,88 @@
-## 👋 Hello, I'm Muhammad Shurrab!
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-🚀 Junior Full-Stack Developer | 💻 6 months Training at Orange Coding Academy 
-🎓 Graduated from Al-Albayt University in Accounting Information System
+###
 
-### About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-shurrab/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="bs.muhammadshurrab@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
 
-- 🌍 Passionate about creating delightful and responsive web experiences
-- 🤖 Constantly learning and exploring new technologies
-- 💡 Detail-oriented with a focus on clean and efficient code
-- 🎨 Enthusiastic about design and user interface principles
+###
 
-### Experience
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Muhammad-Shurrab.Muhammad-Shurrab&"  />
+</div>
 
-- 💼 **Orange Coding Academy** (6 months Training)
-  - Worked on [specific projects or technologies]
-  - Collaborated with a team of developers to [describe your contributions]
+###
 
-### Skills
+<h1 align="center">hey there 👋 I'm Muhammad Shurrab</h1>
 
-- **Languages:![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-- **Frameworks/Libraries:![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-  ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-- **Tools:![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-- **Design:** Figma, Adobe XD
+###
 
-### Let's Connect!
+<h3 align="left">👩‍💻  About Me <br><br>- 🌍 Passionate about creating delightful and responsive web experiences.<br>- 🤖 Constantly learning and exploring new technologies.<br>- 💡 Detail-oriented with a focus on clean and efficient code.<br>- 🎨 Enthusiastic about design and user interface principles.</h3>
 
-([My LinkedIn profile link](https://www.linkedin.com/in/muhammad-shurrab-a63b3b234/))
+###
 
-### 📈 GitHub Stats
+<h3 align="left">💼Experience<br>- Orange Coding Academy** (6 months Training).</h3>
 
-![Your GitHub Stats](link to your GitHub stats)
+###
 
-### Fun Fact
+<h3 align="left">🛠 Language and tools</h3>
 
-💪💪 When not coding, you can find me at the gym.
+###
 
-Feel free to explore my repositories and reach out! 🚀
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/sequelize/52B0E7" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Shurrab&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Shurrab/Muhammad-Shurrab/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Shurrab/Muhammad-Shurrab/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Muhammad-Shurrab/Muhammad-Shurrab/output/pacman-contribution-graph.svg">
+</picture>
+
+###
